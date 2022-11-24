@@ -195,6 +195,10 @@ func main() {
 	/*
 		测试提交pr
 	*/
+
+	/*
+		测试代码评注
+	*/
 }
 
 const homeHTML = `<!DOCTYPE html>
